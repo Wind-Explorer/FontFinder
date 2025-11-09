@@ -21,7 +21,6 @@ With *FontFinder*, point the camera at a sample of the text in question, and the
   - Image Classification model
 - Python & Pillow
   - Fontface ML training dataset generation pipeline
-  - [More info](./Dataset Generation/README.md)
 - 6 distinct font faces from Google Fonts for training - 27000+ image entries in data set
   - Dancing Script
   - Tiny5
